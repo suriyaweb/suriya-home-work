@@ -1,0 +1,35 @@
+
+p{
+    color:brown;
+}
+#name{
+    color:blueviolet;
+}
+.king{
+    color:blue;
+}
+#balaji{
+    color:rgb(37, 126, 126);
+}
+.naveen{
+    color:rgba(33, 177, 57, 0.8);
+}
+#hiii{
+    color:hsl(298, 67%, 47%)
+}
+.praveen{
+    color:hsla(0, 78%, 29%, 0.7);
+}
+h1{
+    font-size:xx-large;
+    font: weight 1000px;
+    font-style:italic;
+    font-family:serif;
+    font-variant: small-caps;
+    line-height: 10cm;
+    text-transform:lowercase;
+    text-decoration: underline;
+    text-shadow:2px 2px 4px ;
+
+
+}
